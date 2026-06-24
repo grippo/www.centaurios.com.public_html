@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.centaurios.com/sitemaps_xsl.xsl"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://www.centaurios.com/</loc>
-<lastmod>2026-03-05T16:54:10+00:00</lastmod>
-<image:image>
-<image:loc><![CDATA[https://patterns.generatepress.com/wp-content/uploads/2024/10/placeholder1280x720-768x432.png]]></image:loc>
-</image:image>
-<image:image>
-<image:loc><![CDATA[https://patterns.generatepress.com/wp-content/uploads/2024/10/placeholder1280x720-768x432.png]]></image:loc>
-</image:image>
-<image:image>
-<image:loc><![CDATA[https://patterns.generatepress.com/wp-content/uploads/2024/10/placeholder1280x720-768x432.png]]></image:loc>
-</image:image>
-<image:image>
-<image:loc><![CDATA[https://patterns.generatepress.com/wp-content/uploads/2024/10/placeholder1280x720-768x432.png]]></image:loc>
-</image:image></url>
-<url>
-<loc>https://www.centaurios.com/contact/</loc>
-<lastmod>2026-02-20T21:26:32+00:00</lastmod></url>
+<lastmod>2026-06-24T13:47:01+00:00</lastmod></url>
 <url>
 <loc>https://www.centaurios.com/privacy-policy/</loc>
-<lastmod>2026-02-19T03:49:30+00:00</lastmod></url></urlset>
+<lastmod>2026-06-24T13:38:09+00:00</lastmod></url>
+<url>
+<loc>https://www.centaurios.com/contact/</loc>
+<lastmod>2026-06-24T13:38:08+00:00</lastmod></url></urlset>
