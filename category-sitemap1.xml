@@ -1,7 +1,5 @@
-<html>
-    <head>
-        <title>Redirecting</title>
-        <meta http-equiv="refresh" content="0;url=https://www.centaurios.com/" />
-    </head>
-    <body></body>
-</html><!-- Powered by Staatic (https://staatic.com/) -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.centaurios.com/sitemaps_xsl.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://www.centaurios.com/category/article/</loc>
+</url></urlset>
